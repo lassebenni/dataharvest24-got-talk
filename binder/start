@@ -1,0 +1,3 @@
+#!/bin/bash
+ollama pull 3.8b-mini-4k-instruct-q4_1
+ollama run 3.8b-mini-4k-instruct-q4_1
